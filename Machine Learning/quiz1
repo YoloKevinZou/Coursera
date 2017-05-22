@@ -1,0 +1,34 @@
+
+Review Related Lesson
+
+Incorrect
+0 / 1 points
+1. 
+A computer program is said to learn from experience E with
+
+respect to some task T and some performance measure P if its
+
+performance on T, as measured by P, improves with experience E.
+
+Suppose we feed a learning algorithm a lot of historical weather
+
+data, and have it learn to predict weather. What would be a
+
+reasonable choice for P?
+
+wrong answer
+1) None of the above
+2) Process of Learning algorithm
+3) Probability Prediction
+
+
+Incorrect
+0 / 1 points
+2. 
+Suppose you are working on weather prediction, and use a
+
+learning algorithm to predict tomorrow's temperature (in
+
+degrees Centigrade/Fahrenheit).
+
+Would you treat this as a classification or a regression problem?
